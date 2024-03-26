@@ -1,17 +1,17 @@
 import Link from "next/link";
 import React from "react";
 import {
-    AppleIcon,
+ 
     Appleicon,
-    FacebookIcon,
+ 
     Facebookicon,
-    InstaIcon,
+ 
     Instaicon,
-    PlaystoreIcon,
+   
     Playstoreicon,
-    TwitterIcon,
+ 
     Twittericon,
-    YoutubeIcon,
+ 
     Youtubeicon,
 } from "./Icon";
 import Image from "next/image";
